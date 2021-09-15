@@ -1,0 +1,82 @@
+
+@font-face {
+    font-family: Vazir-Medium;
+    src: url("../fonts/Vazir-Medium.eot") format('eot'),
+    url("../fonts/Vazir-Medium.woff") format('woff'),
+    url("../fonts/Vazir-Medium.woff2") format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+*, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Vazir-Medium;
+
+}
+body{
+    direction: rtl;
+}
+a{
+    text-decoration: none;
+}
+li,
+ol,
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+p{
+    margin: 0!important;
+}
+@media (max-width: 767px) {
+    .mt-csm-1{
+        margin-top: 1rem !important;
+    }
+}
+@media (max-width: 767px) {
+    .mt-csm-2{
+        margin-top: 2rem !important;
+    }
+}
+@media (max-width: 767px) {
+    .mt-csm-3{
+        margin-top: 3rem !important;
+    }
+}
+@media (max-width: 992px) {
+    .mt-cmd-1{
+        margin-top: 1rem !important;
+    }
+}
+@media (max-width: 992px) {
+    .mt-cmd-2{
+        margin-top: 2rem !important;
+    }
+}
+@media (max-width: 992px) {
+    .mt-cmd-3{
+        margin-top: 3rem !important;
+    }
+}
+@media (max-width: 576px) {
+    .d-csm-none {
+        display: none !important;
+    }
+}
+@media (max-width: 768px) {
+    .d-cmd-none {
+        display: none !important;
+    }
+}
+@media (max-width: 992px) {
+    .d-clg-none {
+        display: none !important;
+    }
+}
+@media (max-width: 1200px) {
+    .d-cxl-none {
+        display: none !important;
+    }
+}
