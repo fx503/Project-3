@@ -1,0 +1,30 @@
+.top-intro{
+    background-color: rgba(0, 0, 171, 0.77);
+}
+.top-intro-wrapper p{
+    color: white;
+    font-size: 12px;
+}
+.top-intro-wrapper .nav .nav-item .nav-link:hover {
+    color: rgb(161, 147, 255) !important;
+}
+.top-intro-wrapper a{
+    font-size: 12px;
+}
+.cus-social-icon-link{
+    padding: 6px;
+}
+.social-wrapper{
+    padding: 0px 10px;
+}
+.custom-nav-link-1{
+    padding: 6px 0px;
+
+}
+.custom-nav-link-1 span{
+    border-left: 1px solid #838383;
+    padding: 0 10px;
+}
+.top-intro-wrapper{
+    padding: 5px 15px;
+}

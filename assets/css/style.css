@@ -1,4 +1,5 @@
-
+@import "bootstrap-rtl.css";
+@import "_top-intro.css";
 @font-face {
     font-family: Vazir-Medium;
     src: url("../fonts/Vazir-Medium.eot") format('eot'),
