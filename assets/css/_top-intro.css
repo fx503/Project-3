@@ -28,3 +28,61 @@
 .top-intro-wrapper{
     padding: 5px 15px;
 }
+.right-col img{
+    max-width: 150px;
+}
+.search-btn{
+    background-color: #FF5E2B;
+    color: white;
+}
+.categories-btn{
+    font-size: 13px;
+}
+.custom-dropdown-menu-1 .dropdown-item{
+    font-size: 13px;
+}
+.custom-dropdown-menu-1 .dropdown-item:hover{
+    background-color: white;
+    color: #FF5E2B;
+}
+.middle-row{
+    border-bottom: 1px solid rgba(232, 232, 232, 1);
+}
+.left-col a{
+    font-size: 14px;
+    color: #333333;
+}
+.left-col a:hover{
+    color: #a4a4a4;
+}
+.bottom-row{
+    border-bottom: 1px solid rgba(232, 232, 232, 1);
+}
+.menu-icon-1{
+    margin-right: 5px;
+    margin-left: 15px;
+}
+.dropdown-categories{
+    border-left: 1px solid rgba(232, 232, 232, 1);
+    border-right: 1px solid rgba(232, 232, 232, 1);
+    font-size: 15px;
+    color: #333333!important;
+}
+.navbar-brand img{
+    max-width: 150px;
+}
+.custom-nav-link-2{
+    color: #333333!important;
+    font-size: 13px;
+}
+.custom-nav-link-2:hover{
+    color: #FF5E2B!important;
+}
+.icons-1{
+    color: white;
+    background-color:#FF5E2B ;
+    padding: 2px 8px;
+}
+.para-1{
+    font-size: 13px;
+}
